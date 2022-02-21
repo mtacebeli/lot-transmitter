@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<semiramis xmlns="com.cisag.app.general.obj.Item" xsi:schemaLocation="com.cisag.app.general.obj.Item Item.xsd"
+           created="2019-04-03T13:54:47.271Z" locale="en-US-XMLSchemaCompliant"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nlsMode="MULTI_LANGUAGE" dateTimeMode="NORMALIZED">
+  <Item xmlns="com.cisag.app.general.obj.Item">
+    <ReferenceItem>
+      <number>600007522-4092-05</number>
+    </ReferenceItem>
+    <Uoms index="0">
+      <EANs>
+        <id>4059117161209</id>
+      </EANs>
+    </Uoms>
+  </Item>
+  <Item xmlns="com.cisag.app.general.obj.Item">
+    <ReferenceItem xsi:nil="true"/>
+    <Imp_AssortmentDefinition>
+      <quantity>
+        <amount>2</amount>
+      </quantity>
+      <AssortmentItem>
+        <number>600007522-4092-05</number>
+      </AssortmentItem>
+      <VariantItem>
+        <eans index="0">4059117151415</eans>
+        <eans index="1"/>
+        <eans index="2"/>
+        <eans index="3"/>
+      </VariantItem>
+    </Imp_AssortmentDefinition>
+    <Imp_AssortmentDefinition>
+      <quantity>
+        <amount>2</amount>
+      </quantity>
+      <AssortmentItem>
+        <number>600007522-4092-05</number>
+      </AssortmentItem>
+      <VariantItem>
+        <eans index="0">4059117151408</eans>
+        <eans index="1"/>
+        <eans index="2"/>
+        <eans index="3"/>
+      </VariantItem>
+    </Imp_AssortmentDefinition>
+    <Uoms index="0"/>
+  </Item>
+</semiramis>
